@@ -5,3 +5,4 @@
 *.raw filter=lfs diff=lfs merge=lfs -text
 *.mzML filter=lfs diff=lfs merge=lfs -text
 *.mzml filter=lfs diff=lfs merge=lfs -text
+*.mzML.gz filter=lfs diff=lfs merge=lfs -text
