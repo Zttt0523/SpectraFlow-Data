@@ -1,0 +1,52 @@
+D:\020\Data\2026\202601\0120\AZO\AZO 0106362H01-1.D\audit.txt 
+Created Wed Jan 21 10:04:54 2026
+
+
+ Modified : Wed Jan 21 10:04:54 2026
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 10:04:54 2026
+ Event    : Report Generation 
+ Message  : Generated Report using option: S
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 10:04:54 2026
+ Event    : ISTD Area 
+ Message  : 465729 245-TCA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:05:11 2026
+ Event    : QDEL
+ Message  : QDEL'ed MDA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:05:11 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-ABP
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:05:12 2026
+ Event    : QDEL
+ Message  : QDEL'ed p-CrD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:05:12 2026
+ Event    : QDEL
+ Message  : QDEL'ed Aniline
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+

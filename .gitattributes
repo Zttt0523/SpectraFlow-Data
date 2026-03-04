@@ -1,0 +1,7 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+*.sqlite-wal filter=lfs diff=lfs merge=lfs -text
+*.sqlite-shm filter=lfs diff=lfs merge=lfs -text
+*.raw filter=lfs diff=lfs merge=lfs -text
+*.mzML filter=lfs diff=lfs merge=lfs -text
+*.mzml filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,33 @@
+
+           Data File Information
+
+     Data File     : D:\020\Data\2026\202601\0120\AZO\AZO 0105860H04-1.D\data.ms
+     Operator:     :   
+     Acquired On   :  20 Jan 2026  14:21    
+     Instrument    :  SZ-CHL-02-22-020
+     Method File   :  AZO-20240308-SCAN&SIM.M
+     Sample Name   :  AZO 0105860H04-1
+     Misc Info     :   
+     Vial Number   :  14
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+           Secondary Data File Information
+
+     Data File    :  D:\020\Data\2026\202601\0120\AZO\AZO 0105860H04-1.D\datasim.ms
+     Operator:    :   
+     Acquired On  :  20 Jan 2026  14:21    
+     Instrument   :  SZ-CHL-02-22-020
+     Method File  :  AZO-20240308-SCAN&SIM.M
+     Sample Name  :  AZO 0105860H04-1
+     Misc Info    :   
+     Vial Number  :  14
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

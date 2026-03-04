@@ -1,0 +1,33 @@
+
+           Data File Information
+
+     Data File     : D:\020\Data\2026\202601\0120\AZO\AZO 001-1 WWJ.D\data.ms
+     Operator:     :   
+     Acquired On   :  21 Jan 2026  01:17    
+     Instrument    :  SZ-CHL-02-22-020
+     Method File   :  AZO-20240308-SCAN&SIM.M
+     Sample Name   :  AZO 001-1 WWJ
+     Misc Info     :   
+     Vial Number   :  64
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+           Secondary Data File Information
+
+     Data File    :  D:\020\Data\2026\202601\0120\AZO\AZO 001-1 WWJ.D\datasim.ms
+     Operator:    :   
+     Acquired On  :  21 Jan 2026  01:17    
+     Instrument   :  SZ-CHL-02-22-020
+     Method File  :  AZO-20240308-SCAN&SIM.M
+     Sample Name  :  AZO 001-1 WWJ
+     Misc Info    :   
+     Vial Number  :  64
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

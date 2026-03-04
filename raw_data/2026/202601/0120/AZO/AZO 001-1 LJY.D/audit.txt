@@ -1,0 +1,94 @@
+D:\020\Data\2026\202601\0120\AZO\AZO 001-1 LJY.D\audit.txt 
+Created Wed Jan 21 11:26:02 2026
+
+
+ Modified : Wed Jan 21 11:26:02 2026
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 11:26:03 2026
+ Event    : Report Generation 
+ Message  : Generated Report using option: S
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 11:26:03 2026
+ Event    : ISTD Area 
+ Message  : 421795 245-TCA
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:26:03 2026
+ Event    : ISTD Area 
+ Message  : 575405 BD-D8
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:26:07 2026
+ Event    : QDEL
+ Message  : QDEL'ed P-PDA
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:26:18 2026
+ Event    : QDEL
+ Message  : QDEL'ed O-TD
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:26:20 2026
+ Event    : QDEL
+ Message  : QDEL'ed 24-XD
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:26:22 2026
+ Event    : QDEL
+ Message  : QDEL'ed 26-XD
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:28:09 2026
+ Event    : QDEL
+ Message  : QDEL'ed O-AAT
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:28:10 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-AAB
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:28:11 2026
+ Event    : QDEL
+ Message  : QDEL'ed 2-NAPA
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:28:11 2026
+ Event    : QDEL
+ Message  : QDEL'ed 24-DAT
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 11:28:12 2026
+ Event    : QDEL
+ Message  : QDEL'ed P-CrD
+ QuantFile: AZO-20260120-BD-D8-SIM-采集用.RES
+ Severity : 1
+

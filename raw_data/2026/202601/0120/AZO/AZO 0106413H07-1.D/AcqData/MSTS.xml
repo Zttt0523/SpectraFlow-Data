@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimeSegments>
+    <Version>3</Version>
+    <TimeSegment TimeSegmentID="1">
+        <!--start time in minutes-->
+        <StartTime>1.4</StartTime>
+        <!--end time in minutes-->
+        <EndTime>2.49999</EndTime>
+        <NumOfScans>162</NumOfScans>
+        <!--0=no, 1=yes-->
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="2">
+        <StartTime>2.5</StartTime>
+        <EndTime>2.99999</EndTime>
+        <NumOfScans>82</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="3">
+        <StartTime>3</StartTime>
+        <EndTime>3.64999</EndTime>
+        <NumOfScans>108</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="4">
+        <StartTime>3.65</StartTime>
+        <EndTime>4.39999</EndTime>
+        <NumOfScans>124</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="5">
+        <StartTime>4.4</StartTime>
+        <EndTime>5.49999</EndTime>
+        <NumOfScans>223</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="6">
+        <StartTime>5.5</StartTime>
+        <EndTime>6.09999</EndTime>
+        <NumOfScans>94</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="7">
+        <StartTime>6.1</StartTime>
+        <EndTime>6.64999</EndTime>
+        <NumOfScans>96</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="8">
+        <StartTime>6.65</StartTime>
+        <EndTime>6.99999</EndTime>
+        <NumOfScans>78</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="9">
+        <StartTime>7</StartTime>
+        <EndTime>650</EndTime>
+        <NumOfScans>307</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <IRMStatus>0</IRMStatus>
+</TimeSegments>

@@ -1,0 +1,85 @@
+{
+    "target_name": "AZO",
+    "watch": {
+        "raw_data_dir": "D:\\azo_020\\raw_data",
+        "mzml_output_dir": "D:\\azo_020\\candidate_mzml_files",
+        "visualization_dir": "D:\\azo_020\\peak_detect_visual_result",
+        "compounds_csv": "D:\\azo_020\\compounds.csv"
+    },
+    "conversion": {
+        "stable_interval": 1.5,
+        "stable_checks": 6,
+        "max_retries": 10,
+        "retry_interval": 2.5,
+        "checksum_timeout": 1800,
+        "stabilize_timeout": 900,
+        "msconvert_timeout": 1800,
+        "max_requeue": 5,
+        "retry_delay": 60,
+        "processed_cache_size": 10000,
+        "completed_ttl_days": 7,
+        "vacuum_on_start": false,
+        "mzml_by_date": true
+    },
+    "auto_judge": {
+        "enabled": false,
+        "api_base_url": "http://127.0.0.1:8000",
+        "batch_size": 20,
+        "max_wait_seconds": 90,
+        "request_timeout": 20,
+        "request_payload": {
+            "snr_min": 1.5,
+            "channel_priority": [
+                "mz3",
+                "mz1",
+                "mz2"
+            ],
+            "quant_filter": {
+                "enable": true,
+                "quant_mode": "internal",
+                "internal_std": "*245-TCA",
+                "internal_std_concentration": 10,
+                "min_concentration": 1,
+                "force_zero": false,
+                "use_template": true
+            },
+            "ion_ratio_filter": {
+                "enable": true,
+                "max_dev_pct": 20
+            }
+        },
+        "standard_response": {
+            "mode": "auto",
+            "date": null,
+            "profile": null,
+            "ms_mode": "sim"
+        },
+        "require_standard_ready": true,
+        "auto_rejudge_on_standard_ready": true
+    },
+    "createdAt": "2025-12-16 11:49:04",
+    "threading": {
+        "worker_multiplier": 1,
+        "conversion_multiplier": 1,
+        "visualization_multiplier": 1,
+        "conversion_max_queue": 32,
+        "pipeline_mode": "staged_batch",
+        "staged_switch_poll_seconds": 1,
+        "staged_phase2_visualization_multiplier": 1,
+		"staged_switch_run_date": "20260228"
+    },
+    "adaptive_threading": {
+        "enabled": true,
+        "global_max_tokens": null,
+        "conversion_min_tokens": null,
+        "conversion_max_tokens": null,
+        "visualization_min_tokens": null,
+        "visualization_max_tokens": null,
+        "poll_interval_seconds": 2,
+        "saturation_high": 0.85,
+        "saturation_low": 0.35,
+        "cooldown_seconds": 4,
+        "cpu_high_watermark": 85,
+        "memory_high_watermark": 90
+    }
+}

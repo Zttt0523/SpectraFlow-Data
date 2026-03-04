@@ -1,0 +1,94 @@
+D:\020\Data\2026\202601\0120\AZO\AZO 0105860H08-1.D\audit.txt 
+Created Tue Jan 20 16:51:29 2026
+
+
+ Modified : Tue Jan 20 16:51:29 2026
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Tue Jan 20 16:51:29 2026
+ Event    : Report Generation 
+ Message  : Generated Report using option: S
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Tue Jan 20 16:51:29 2026
+ Event    : ISTD Area 
+ Message  : 482007 245-TCA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:37 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for 24-XD from 0ug/ml to 0.0944142ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:44 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for 2-NAPA from 0ug/ml to 0.0866427ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:58 2026
+ Event    : QDEL
+ Message  : QDEL'ed 33-DCBD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:58 2026
+ Event    : QDEL
+ Message  : QDEL'ed MDA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:59 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-AAB
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:51:59 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-ABP
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:52:00 2026
+ Event    : QDEL
+ Message  : QDEL'ed 2-NAPA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:52:01 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-CA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:52:01 2026
+ Event    : QDEL
+ Message  : QDEL'ed 24-XD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Tue Jan 20 16:52:02 2026
+ Event    : QDEL
+ Message  : QDEL'ed p-PDA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+

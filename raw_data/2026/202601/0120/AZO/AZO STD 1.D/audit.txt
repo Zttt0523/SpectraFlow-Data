@@ -1,0 +1,24 @@
+D:\020\Data\2026\202601\0120\AZO\AZO STD 1.D\audit.txt 
+Created Tue Jan 20 13:54:04 2026
+
+
+ Modified : Tue Jan 20 13:54:04 2026
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Tue Jan 20 13:54:04 2026
+ Event    : Report Generation 
+ Message  : Generated Report using option: S
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Tue Jan 20 13:54:04 2026
+ Event    : ISTD Area 
+ Message  : 419412 245-TCA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+

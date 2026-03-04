@@ -1,0 +1,122 @@
+D:\020\Data\2026\202601\0120\AZO\AZO 0105620H03-1.D\audit.txt 
+Created Wed Jan 21 10:14:32 2026
+
+
+ Modified : Wed Jan 21 10:14:32 2026
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 10:14:33 2026
+ Event    : Report Generation 
+ Message  : Generated Report using option: S
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 0
+
+
+ Modified : Wed Jan 21 10:14:33 2026
+ Event    : ISTD Area 
+ Message  : 464409 245-TCA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:14:51 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 1.08345ug/ml to 1.08345ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:15 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 1.08345ug/ml to 0.929856ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:18 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 0.929856ug/ml to 0.929856ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:22 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 0.929856ug/ml to 0.929856ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:27 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 0.929856ug/ml to 0.929856ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:29 2026
+ Event    : Manual Integration
+ Message  : Changed peak amount for BD from 0.929856ug/ml to 0.929856ug/ml
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:39 2026
+ Event    : QDEL
+ Message  : QDEL'ed 33-DCBD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:39 2026
+ Event    : QDEL
+ Message  : QDEL'ed MDA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:40 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-AAB
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:41 2026
+ Event    : QDEL
+ Message  : QDEL'ed 245-TMA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:41 2026
+ Event    : QDEL
+ Message  : QDEL'ed 4-CA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:41 2026
+ Event    : QDEL
+ Message  : QDEL'ed 26-XD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:41 2026
+ Event    : QDEL
+ Message  : QDEL'ed 24-XD
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
+
+ Modified : Wed Jan 21 10:17:42 2026
+ Event    : QDEL
+ Message  : QDEL'ed p-PDA
+ QuantFile: AZO-20260120-SIM-采集用.RES
+ Severity : 1
+
